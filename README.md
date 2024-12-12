@@ -16,10 +16,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with over 9 yea
 -   **Tools**: AWS, Docker, Git, Jenkins
 -   **Principles**: SOLID, DRY, CQRS
 
-## 📊 GitHub Stats
-
-![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 📄 Resume
 
 You can view my detailed resume [here](https://cv-eta-blue.vercel.app/).
