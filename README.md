@@ -1,29 +1,49 @@
-# Hi there, I'm Alexander Eduardo 👋
+# Hi, I'm Alexander Sequera 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer with over 9 years of experience, specializing in Angular and C#. I've had the privilege of working remotely with several US-based companies, contributing to innovative projects and building robust solutions.
+**Senior Software Engineer · CX & Design Lead at [QPilot](https://qpilot.cloud/)**
 
-## 🌟 Experience Highlights
+Computer scientist shipping senior-grade **Angular** applications, design-led frontends, serverless backends, and the AI-augmented workflow that keeps them moving. I own UX end-to-end — from Figma and the design system to the production Angular 21 code.
 
--   **CYBERA**: Played a key role in developing secure and efficient networking solutions, contributing to the fight against scams and online crime.
--   **DeepSeas**: Worked on cutting-edge technologies to deliver high-quality software solutions, ensuring scalability and performance.
--   **Wootic**: Implemented microservices using TypeScript and AWS, enhancing the scalability and maintainability of applications.
--   **357 Software**: Designed and built applications from scratch, following CQRS and SOLID principles, and creating reusable components with Angular.
-
-## 💼 Skills
-
--   **Languages**: C#, TypeScript, JavaScript, Python, SQL, HTML, CSS
--   **Frameworks**: Angular, .NET, Node.js
--   **Tools**: AWS, Docker, Git, Jenkins
--   **Principles**: SOLID, DRY, CQRS
-
-## 📄 Resume
-
-You can view my detailed resume [here](https://cv-eta-blue.vercel.app/).
-
-## 🔗 Connect with Me
-
--   [LinkedIn](https://www.linkedin.com/in/sequeraperezalexandereduardo/)
+📄 **Full CV:** [cv-eta-blue.vercel.app](https://cv-eta-blue.vercel.app/) · Agent-readable at [/cv.md](https://cv-eta-blue.vercel.app/cv.md)
 
 ---
 
-Let's build something amazing together! 🚀
+## 🚀 What I'm working on
+
+- Leading the migration of QPilot's merchants app from **Angular 5 → Angular 21** on a greenfield domain — now live at [portal.qpilot.cloud](https://portal.qpilot.cloud/).
+- Designing the UX and design system from scratch in **Figma**, then shipping it as an Angular component library on a custom **PrimeNG** brand preset.
+- Building serverless **AWS** microservices (Lambda + API Gateway) and deploying the frontend as an **Azure Static Web App** provisioned via Bicep IaC.
+- Pairing daily with AI agents (**Claude Code**, **Cursor**, subagents/MCP) for design exploration, planning, code review, and multi-file refactors.
+
+## 🛠️ Stack
+
+- **Frontend** — Angular (v5 → v21), TypeScript (strict), Signals, RxJS, PrimeNG (custom presets), Tailwind v4, SCSS
+- **Design & UX** — Figma, design systems, component libraries, design tokens, accessibility
+- **Backend** — Node.js, NestJS, Express, C# / .NET 8, ASP.NET Core, Clean / Onion Architecture, REST APIs
+- **Cloud & Serverless** — AWS Lambda, AWS SDK (S3, SES, API Gateway), Azure App Service, Azure Static Web Apps, Azure AD B2C, Bicep IaC, Docker
+- **Testing & Quality** — Jasmine/Karma, Jest, xUnit, Cypress, **Gherkin / Cucumber (BDD)**, ESLint + Prettier + Husky
+- **Data** — MS SQL Server, PostgreSQL, EF Core, TypeORM
+- **AI & Agents** — Claude Code, Cursor, multi-agent workflows (MCP), AI pair programming, agentic code review
+
+## 💼 Experience
+
+- **QPilot** — Engineer, CX & Design Lead *(Feb 2025 — Present)*
+- **Cybera** — Software Engineer *(2023 — Jan 2025)*
+- **DeepSeas** — Software Engineer *(2021 — 2023)*
+- **Wootic** — Software Engineer *(2021)*
+- **357 Software, LLC** — Software Engineer *(2019 — 2021)*
+- **Various — Venezuela, Colombia, Mexico** *(2016 — 2019)*
+
+## 🎓 Education
+
+**Universidad del Zulia (LUZ)** — Degree in Computer Science *(2011 — 2017)*
+
+## 🔗 Connect
+
+- 📧 [asequera3@gmail.com](mailto:asequera3@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sequeraperezalexandereduardo)
+- 🌐 [cv-eta-blue.vercel.app](https://cv-eta-blue.vercel.app/)
+
+---
+
+*Lead engineer. Remote. Built on thoughtful interfaces, strong test coverage, and disciplined refinement.*
